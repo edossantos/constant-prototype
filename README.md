@@ -1,4 +1,4 @@
-# agrify-prototype
+# Constant-Prototype
 
 ## Project setup
 ```
